@@ -1,0 +1,1 @@
+docker build -f docker/DockerfileBACKEND -t backend-service .
